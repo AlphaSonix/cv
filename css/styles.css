@@ -1,0 +1,29 @@
+
+body {
+  background-color: #FFFDE8;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 5px;
+  border-color: white;
+}
+
+.reviews{
+  width: 150px;
+  height: 200px;
+}
+.reviews:hover {
+  width: 300px;
+  height: 400px;
+}
+h1 {color: red;} h3 {color:red;}
+
+/******* CLASS ATTRIBUTES******/
+.profile {width:300px; height:350px; border-radius: 50%;
+}
+
+/******* ID ATTRIBUTES******/
+#introductory {font-style:oblique;}
